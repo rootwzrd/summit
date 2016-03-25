@@ -1,0 +1,21 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.13.2
+3 info using node@v0.10.29
+4 verbose node symlink /usr/bin/node
+5 verbose config Skipping project config: /home/rootwzrd/.npmrc. (matches userconfig)
+6 verbose readDependencies loading dependencies from /home/rootwzrd/package.json
+7 error install Couldn't read dependencies
+8 verbose stack Error: ENOENT, open '/home/rootwzrd/package.json'
+9 verbose cwd /home/rootwzrd/Documents/gcloud/projects/gok
+10 error Linux 3.16.0-4-amd64
+11 error argv "node" "/usr/local/bin/npm" "install"
+12 error node v0.10.29
+13 error npm  v2.13.2
+14 error path /home/rootwzrd/package.json
+15 error code ENOPACKAGEJSON
+16 error errno 34
+17 error package.json ENOENT, open '/home/rootwzrd/package.json'
+17 error package.json This is most likely not a problem with npm itself.
+17 error package.json npm can't find a package.json file in your current directory.
+18 verbose exit [ 34, true ]
