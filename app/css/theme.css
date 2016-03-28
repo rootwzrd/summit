@@ -13,7 +13,7 @@ html, body {
 body.home{
     background:
 
-url("../img/bg/summitlog2.jpg")no-repeat center center fixed;
+url("../img/bg/banner/banner2.jpg")no-repeat center center fixed;
         
 
 /*url("../img/bg/cherry-bg.jpg")no-repeat center center fixed; */
@@ -598,7 +598,7 @@ body.single .top-bar{
 /* footer */
 .footer{
     background: rgba(0,0,0,0.85);
-    min-height: 360px;
+    min-height: 36px;
 }
 body.single .footer{
     background: #292929 !important;
